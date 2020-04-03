@@ -13,7 +13,9 @@ namespace TARpv
             Console.WriteLine("enter your name, please : ");
             string name = Console.ReadLine();
 
-            Console.WriteLine("Hi, "+name+", nice to meet you");
+            //Console.WriteLine("Hi, "+name+", nice to meet you");
+
+            Console.WriteLine($"Hi,{name}, nice to meet you") ;
 
             Console.ReadLine();
         }
