@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\TARpv\TARpv\bin\Debug\TARpv.exe.config
+C:\Users\Asus\source\repos\TARpv\TARpv\bin\Debug\TARpv.exe
+C:\Users\Asus\source\repos\TARpv\TARpv\bin\Debug\TARpv.pdb
+C:\Users\Asus\source\repos\TARpv\TARpv\obj\Debug\TARpv.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\TARpv\TARpv\obj\Debug\TARpv.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TARpv\TARpv\obj\Debug\TARpv.exe
+C:\Users\Asus\source\repos\TARpv\TARpv\obj\Debug\TARpv.pdb
